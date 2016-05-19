@@ -1,2 +1,2 @@
 # maven-electron-plugin
-An electron app generator for java app frontend.
+An electron offline module generator for java app frontend.
